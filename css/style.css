@@ -89,3 +89,7 @@ span.bold-italic {
 .link2 {
   color: #075d8c;
 }
+
+iframe{
+    overflow:hidden;
+}
